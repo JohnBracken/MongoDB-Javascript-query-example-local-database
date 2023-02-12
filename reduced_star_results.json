@@ -1,0 +1,1046 @@
+[
+	{
+		"proper_name" : "Rigil Kentaurus B",
+		"greek_name" : "Alpha Cen B",
+		"distance_ly" : 4.36,
+		"stellar_class" : "K1V"
+	},
+	{
+		"proper_name" : "Canopus",
+		"greek_name" : "Alpha Car",
+		"distance_ly" : 309,
+		"stellar_class" : "F0II"
+	},
+	{
+		"proper_name" : "Arcturus",
+		"greek_name" : "Alpha Boo",
+		"distance_ly" : 37,
+		"stellar_class" : "K1.5III"
+	},
+	{
+		"proper_name" : "Vega",
+		"greek_name" : "Alpha Lyr",
+		"distance_ly" : 25,
+		"stellar_class" : "A0V"
+	},
+	{
+		"proper_name" : "Capella",
+		"greek_name" : "Alpha Aur",
+		"distance_ly" : 43,
+		"stellar_class" : "G8III+G0III"
+	},
+	{
+		"proper_name" : "Rigel",
+		"greek_name" : "Beta Ori",
+		"distance_ly" : 860,
+		"stellar_class" : "B8Iab"
+	},
+	{
+		"proper_name" : "Sirius",
+		"greek_name" : "Alpha CMa",
+		"distance_ly" : 8.6,
+		"stellar_class" : "A1V"
+	},
+	{
+		"proper_name" : "Procyon",
+		"greek_name" : "Alpha CMi",
+		"distance_ly" : 11.5,
+		"stellar_class" : "F5IV-V"
+	},
+	{
+		"proper_name" : "Rigil Kentaurus A",
+		"greek_name" : "Alpha Cen A",
+		"distance_ly" : 4.36,
+		"stellar_class" : "G2V"
+	},
+	{
+		"proper_name" : "Altair",
+		"greek_name" : "Alpha Aql",
+		"distance_ly" : 16.7,
+		"stellar_class" : "A7V"
+	},
+	{
+		"proper_name" : "Betelgeuse",
+		"greek_name" : "Alpha Ori",
+		"distance_ly" : 570,
+		"stellar_class" : "M2Iab"
+	},
+	{
+		"proper_name" : "Achernar",
+		"greek_name" : "Alpha Eri",
+		"distance_ly" : 140,
+		"stellar_class" : "B3Vpe"
+	},
+	{
+		"proper_name" : "Acrux B",
+		"greek_name" : "Alpha Cru B",
+		"distance_ly" : 325,
+		"stellar_class" : "B1V"
+	},
+	{
+		"proper_name" : "Aldebaran",
+		"greek_name" : "Alpha Tau",
+		"distance_ly" : 67,
+		"stellar_class" : "K5III"
+	},
+	{
+		"proper_name" : "Hadar",
+		"greek_name" : "Beta Cen",
+		"distance_ly" : 392,
+		"stellar_class" : "B1III"
+	},
+	{
+		"proper_name" : "Antares",
+		"greek_name" : "Alpha Sco",
+		"distance_ly" : 550,
+		"stellar_class" : "M1.5Ib"
+	},
+	{
+		"proper_name" : "Spica",
+		"greek_name" : "Alpha Vir",
+		"distance_ly" : 250,
+		"stellar_class" : "B1V+B4V"
+	},
+	{
+		"proper_name" : "Pollux",
+		"greek_name" : "Beta Gem",
+		"distance_ly" : 34,
+		"stellar_class" : "K0III"
+	},
+	{
+		"proper_name" : "Mimosa",
+		"greek_name" : "Beta Cru",
+		"distance_ly" : 280,
+		"stellar_class" : "B0.5III"
+	},
+	{
+		"proper_name" : "Deneb",
+		"greek_name" : "Alpha Cyg",
+		"distance_ly" : 1425,
+		"stellar_class" : "A2Ia"
+	},
+	{
+		"proper_name" : "Regulus",
+		"greek_name" : "Alpha Leo",
+		"distance_ly" : 79,
+		"stellar_class" : "B7V"
+	},
+	{
+		"proper_name" : "Castor",
+		"greek_name" : "Alpha Gem",
+		"distance_ly" : 51,
+		"stellar_class" : "A1V+A5Vm"
+	},
+	{
+		"proper_name" : "Adhara",
+		"greek_name" : "Epsilon CMa",
+		"distance_ly" : 405,
+		"stellar_class" : "B2II"
+	},
+	{
+		"proper_name" : "Gacrux",
+		"greek_name" : "Gamma Cru",
+		"distance_ly" : 88,
+		"stellar_class" : "M3.5III"
+	},
+	{
+		"proper_name" : "Fomalhaut",
+		"greek_name" : "Alpha PsA",
+		"distance_ly" : 25,
+		"stellar_class" : "A3V"
+	},
+	{
+		"proper_name" : "Elnath",
+		"greek_name" : "Beta Tau",
+		"distance_ly" : 130,
+		"stellar_class" : "B7III"
+	},
+	{
+		"proper_name" : "Bellatrix",
+		"greek_name" : "Gamma Ori",
+		"distance_ly" : 245,
+		"stellar_class" : "B2III"
+	},
+	{
+		"proper_name" : "Shaula",
+		"greek_name" : "Lambda Sco",
+		"distance_ly" : 365,
+		"stellar_class" : "B1.5IV+B2"
+	},
+	{
+		"proper_name" : "Miaplacidus",
+		"greek_name" : "Beta Car",
+		"distance_ly" : 111,
+		"stellar_class" : "A2IV"
+	},
+	{
+		"proper_name" : "Alnitak",
+		"greek_name" : "Zeta Ori",
+		"distance_ly" : 815,
+		"stellar_class" : "O9.5Ibe+B0III"
+	},
+	{
+		"proper_name" : "Al Nair",
+		"greek_name" : "Alpha Gru",
+		"distance_ly" : 101,
+		"stellar_class" : "B7IV"
+	},
+	{
+		"proper_name" : "Alioth",
+		"greek_name" : "Epsilon UMa",
+		"distance_ly" : 81,
+		"stellar_class" : "A0p"
+	},
+	{
+		"proper_name" : "Alnilam",
+		"greek_name" : "Epsilon Ori",
+		"distance_ly" : 1340,
+		"stellar_class" : "B0Ia"
+	},
+	{
+		"proper_name" : "Dubhe",
+		"greek_name" : "Alpha UMa",
+		"distance_ly" : 124,
+		"stellar_class" : "K0III"
+	},
+	{
+		"proper_name" : "Regor",
+		"greek_name" : "Gamma-2 Vel",
+		"distance_ly" : 1200,
+		"stellar_class" : "WC8+O7.5e"
+	},
+	{
+		"proper_name" : "Mirfak",
+		"greek_name" : "Alpha Per",
+		"distance_ly" : 590,
+		"stellar_class" : "F5Iab"
+	},
+	{
+		"proper_name" : "Kaus Australis",
+		"greek_name" : "Epsilon Sgr",
+		"distance_ly" : 143,
+		"stellar_class" : "B9.5III"
+	},
+	{
+		"proper_name" : "Alkaid",
+		"greek_name" : "Eta UMa",
+		"distance_ly" : 101,
+		"stellar_class" : "B3V"
+	},
+	{
+		"proper_name" : "Wezen",
+		"greek_name" : "Delta CMa",
+		"distance_ly" : 1800,
+		"stellar_class" : "F8Iab"
+	},
+	{
+		"proper_name" : "Girtab",
+		"greek_name" : "Theta Sco",
+		"distance_ly" : 272,
+		"stellar_class" : "F1II"
+	},
+	{
+		"proper_name" : "Avior",
+		"greek_name" : "Epsilon Car",
+		"distance_ly" : 630,
+		"stellar_class" : "K3III+B2V"
+	},
+	{
+		"proper_name" : "Menkalinan",
+		"greek_name" : "Beta Aur",
+		"distance_ly" : 82,
+		"stellar_class" : "A2IV"
+	},
+	{
+		"proper_name" : "Atria",
+		"greek_name" : "Alpha TrA",
+		"distance_ly" : 415,
+		"stellar_class" : "K3II-III"
+	},
+	{
+		"proper_name" : "Alhena",
+		"greek_name" : "Gamma Gem",
+		"distance_ly" : 105,
+		"stellar_class" : "A0IV"
+	},
+	{
+		"proper_name" : "Mirzam",
+		"greek_name" : "Beta CMa",
+		"distance_ly" : 500,
+		"stellar_class" : "B1II-III"
+	},
+	{
+		"proper_name" : "Alphard",
+		"greek_name" : "Alpha Hya",
+		"distance_ly" : 177,
+		"stellar_class" : "K3II-III"
+	},
+	{
+		"proper_name" : "Peacock",
+		"greek_name" : "Alpha Pav",
+		"distance_ly" : 183,
+		"stellar_class" : "B2IV"
+	},
+	{
+		"proper_name" : "Algieba",
+		"greek_name" : "Gamma Leo",
+		"distance_ly" : 131,
+		"stellar_class" : "K1III+G7III"
+	},
+	{
+		"proper_name" : "Hamal",
+		"greek_name" : "Alpha Ari",
+		"distance_ly" : 66,
+		"stellar_class" : "K2III"
+	},
+	{
+		"proper_name" : "Nunki",
+		"greek_name" : "Sigma Sgr",
+		"distance_ly" : 225,
+		"stellar_class" : "B2.5V"
+	},
+	{
+		"proper_name" : "Polaris",
+		"greek_name" : "Alpha UMi",
+		"distance_ly" : 430,
+		"stellar_class" : "F7Ib-II"
+	},
+	{
+		"proper_name" : "Deneb Kaitos",
+		"greek_name" : "Beta Cet",
+		"distance_ly" : 96,
+		"stellar_class" : "K0III"
+	},
+	{
+		"proper_name" : "Saiph",
+		"greek_name" : "Kappa Ori",
+		"distance_ly" : 720,
+		"stellar_class" : "B0.5Ia"
+	},
+	{
+		"proper_name" : "Alpheratz",
+		"greek_name" : "Alpha And",
+		"distance_ly" : 97,
+		"stellar_class" : "B8IVp"
+	},
+	{
+		"proper_name" : "Mizar",
+		"greek_name" : "Zeta UMa",
+		"distance_ly" : 78,
+		"stellar_class" : "A2Vp+A7Vm"
+	},
+	{
+		"proper_name" : "Menkent",
+		"greek_name" : "Theta Cen",
+		"distance_ly" : 61,
+		"stellar_class" : "K0III"
+	},
+	{
+		"proper_name" : "Mirach",
+		"greek_name" : "Beta And",
+		"distance_ly" : 200,
+		"stellar_class" : "M0III"
+	},
+	{
+		"proper_name" : "Rasalhague",
+		"greek_name" : "Alpha Oph",
+		"distance_ly" : 47,
+		"stellar_class" : "A5III"
+	},
+	{
+		"proper_name" : "Kochab",
+		"greek_name" : "Beta UMi",
+		"distance_ly" : 126,
+		"stellar_class" : "K4III"
+	},
+	{
+		"proper_name" : "Beta Gru",
+		"greek_name" : "Beta Gru",
+		"distance_ly" : 170,
+		"stellar_class" : "M5III"
+	},
+	{
+		"proper_name" : "Algol",
+		"greek_name" : "Beta Per",
+		"distance_ly" : 93,
+		"stellar_class" : "B8V"
+	},
+	{
+		"proper_name" : "Denebola",
+		"greek_name" : "Beta Leo",
+		"distance_ly" : 36,
+		"stellar_class" : "A3V"
+	},
+	{
+		"proper_name" : "Almach",
+		"greek_name" : "Gamma And",
+		"distance_ly" : 355,
+		"stellar_class" : "K3II+(B8V+A0V)"
+	},
+	{
+		"proper_name" : "Delta Vel",
+		"greek_name" : "Delta Vel",
+		"distance_ly" : 80,
+		"stellar_class" : "A1V"
+	},
+	{
+		"proper_name" : "Muhlifain",
+		"greek_name" : "Gamma Cen",
+		"distance_ly" : 130,
+		"stellar_class" : "A1IV"
+	},
+	{
+		"proper_name" : "Suhail",
+		"greek_name" : "Lambda Vel",
+		"distance_ly" : 575,
+		"stellar_class" : "K4Ib-II"
+	},
+	{
+		"proper_name" : "Sadr",
+		"greek_name" : "Gamma Cyg",
+		"distance_ly" : 1500,
+		"stellar_class" : "F8Ib"
+	},
+	{
+		"proper_name" : "Mintaka",
+		"greek_name" : "Delta Ori",
+		"distance_ly" : 915,
+		"stellar_class" : "B0III+O9V"
+	},
+	{
+		"proper_name" : "Alphecca",
+		"greek_name" : "Alpha CrB",
+		"distance_ly" : 75,
+		"stellar_class" : "A0V"
+	},
+	{
+		"proper_name" : "Shedar",
+		"greek_name" : "Alpha Cas",
+		"distance_ly" : 230,
+		"stellar_class" : "K0III"
+	},
+	{
+		"proper_name" : "Acrux A",
+		"greek_name" : "Alpha Cru A",
+		"distance_ly" : 325,
+		"stellar_class" : "B0.5IV"
+	},
+	{
+		"proper_name" : "Caph",
+		"greek_name" : "Beta Cas",
+		"distance_ly" : 54,
+		"stellar_class" : "F2III-IV"
+	},
+	{
+		"proper_name" : "Eltanin",
+		"greek_name" : "Gamma Dra",
+		"distance_ly" : 148,
+		"stellar_class" : "K5III"
+	},
+	{
+		"proper_name" : "Eps Cen",
+		"greek_name" : "Epsilon Cen",
+		"distance_ly" : 375,
+		"stellar_class" : "B1III"
+	},
+	{
+		"proper_name" : "Eps Sco",
+		"greek_name" : "Epsilon Sco",
+		"distance_ly" : 65,
+		"stellar_class" : "K2.5III"
+	},
+	{
+		"proper_name" : "Kakkab",
+		"greek_name" : "Alpha Lup",
+		"distance_ly" : 550,
+		"stellar_class" : "B1.5III"
+	},
+	{
+		"proper_name" : "Aspidiske",
+		"greek_name" : "Iota Car",
+		"distance_ly" : 690,
+		"stellar_class" : "A8Ib"
+	},
+	{
+		"proper_name" : "Eta Cen",
+		"greek_name" : "Eta Cen",
+		"distance_ly" : 310,
+		"stellar_class" : "B1.5Ve"
+	},
+	{
+		"proper_name" : "Dschubba",
+		"greek_name" : "Delta Sco",
+		"distance_ly" : 400,
+		"stellar_class" : "B0.3IV"
+	},
+	{
+		"proper_name" : "Ankaa",
+		"greek_name" : "Alpha Phe",
+		"distance_ly" : 77,
+		"stellar_class" : "K0III"
+	},
+	{
+		"proper_name" : "Merak",
+		"greek_name" : "Beta UMa",
+		"distance_ly" : 79,
+		"stellar_class" : "A1V"
+	},
+	{
+		"proper_name" : "Kappa Sco",
+		"greek_name" : "Kappa Sco",
+		"distance_ly" : 450,
+		"stellar_class" : "B1.5III"
+	},
+	{
+		"proper_name" : "Scheat",
+		"greek_name" : "Beta Peg",
+		"distance_ly" : 200,
+		"stellar_class" : "M2.5II-III"
+	},
+	{
+		"proper_name" : "Sabik",
+		"greek_name" : "Eta Oph",
+		"distance_ly" : 84,
+		"stellar_class" : "A2V+A3V"
+	},
+	{
+		"proper_name" : "Phecda",
+		"greek_name" : "Gamma UMa",
+		"distance_ly" : 84,
+		"stellar_class" : "A0Ve"
+	},
+	{
+		"proper_name" : "Alderamin",
+		"greek_name" : "Alpha Cep",
+		"distance_ly" : 49,
+		"stellar_class" : "A7V"
+	},
+	{
+		"proper_name" : "Aludra",
+		"greek_name" : "Eta CMa",
+		"distance_ly" : 3200,
+		"stellar_class" : "B5Ia"
+	},
+	{
+		"proper_name" : "Gienah Cygni",
+		"greek_name" : "Epsilon Cyg",
+		"distance_ly" : 72,
+		"stellar_class" : "K0III"
+	},
+	{
+		"proper_name" : "Enif",
+		"greek_name" : "Epsilon Peg",
+		"distance_ly" : 670,
+		"stellar_class" : "K2Ib"
+	},
+	{
+		"proper_name" : "Gamma Cas",
+		"greek_name" : "Gamma Cas",
+		"distance_ly" : 549,
+		"stellar_class" : "B0IVpe"
+	},
+	{
+		"proper_name" : "Naos",
+		"greek_name" : "Zeta Pup",
+		"distance_ly" : 970,
+		"stellar_class" : "O5Ia"
+	},
+	{
+		"proper_name" : "Markab",
+		"greek_name" : "Alpha Peg",
+		"distance_ly" : 140,
+		"stellar_class" : "B9V"
+	},
+	{
+		"proper_name" : "Graffias",
+		"greek_name" : "Beta Sco",
+		"distance_ly" : 530,
+		"stellar_class" : "B1V+B2V"
+	},
+	{
+		"proper_name" : "Markeb",
+		"greek_name" : "Kappa Vel",
+		"distance_ly" : 540,
+		"stellar_class" : "B2IV-V"
+	},
+	{
+		"proper_name" : "Menkar",
+		"greek_name" : "Alpha Cet",
+		"distance_ly" : 220,
+		"stellar_class" : "M1.5III"
+	},
+	{
+		"proper_name" : "Zeta Cen",
+		"greek_name" : "Zeta Cen",
+		"distance_ly" : 385,
+		"stellar_class" : "B2.5IV"
+	},
+	{
+		"proper_name" : "Zosma",
+		"greek_name" : "Delta Leo",
+		"distance_ly" : 58,
+		"stellar_class" : "A4V"
+	},
+	{
+		"proper_name" : "Arneb",
+		"greek_name" : "Alpha Lep",
+		"distance_ly" : 1300,
+		"stellar_class" : "F0Ib"
+	},
+	{
+		"proper_name" : "Gienah",
+		"greek_name" : "Gamma Crv",
+		"distance_ly" : 165,
+		"stellar_class" : "B8IIIpHgMn"
+	},
+	{
+		"proper_name" : "Izar",
+		"greek_name" : "Epsilon Boo",
+		"distance_ly" : 205,
+		"stellar_class" : "K0II-III+A2V"
+	},
+	{
+		"proper_name" : "Delta Cen",
+		"greek_name" : "Delta Cen",
+		"distance_ly" : 395,
+		"stellar_class" : "B2IV"
+	},
+	{
+		"proper_name" : "Zubeneschamali",
+		"greek_name" : "Beta Lib",
+		"distance_ly" : 160,
+		"stellar_class" : "B8V"
+	},
+	{
+		"proper_name" : "Ascella",
+		"greek_name" : "Zeta Sgr",
+		"distance_ly" : 89,
+		"stellar_class" : "A2III+A4IV"
+	},
+	{
+		"proper_name" : "Theta Aur",
+		"greek_name" : "Theta Aur",
+		"distance_ly" : 173,
+		"stellar_class" : "A0pSi"
+	},
+	{
+		"proper_name" : "Zeta Oph",
+		"greek_name" : "Zeta Oph",
+		"distance_ly" : 460,
+		"stellar_class" : "O9.5V"
+	},
+	{
+		"proper_name" : "Unukalhai",
+		"greek_name" : "Alpha Ser",
+		"distance_ly" : 73,
+		"stellar_class" : "K2III"
+	},
+	{
+		"proper_name" : "Beta Lup",
+		"greek_name" : "Beta Lup",
+		"distance_ly" : 524,
+		"stellar_class" : "B2III"
+	},
+	{
+		"proper_name" : "Phact",
+		"greek_name" : "Alpha Col",
+		"distance_ly" : 270,
+		"stellar_class" : "B7IVe"
+	},
+	{
+		"proper_name" : "Kraz",
+		"greek_name" : "Beta Crv",
+		"distance_ly" : 140,
+		"stellar_class" : "G5II"
+	},
+	{
+		"proper_name" : "Muphrid",
+		"greek_name" : "Eta Boo",
+		"distance_ly" : 37,
+		"stellar_class" : "G0IV"
+	},
+	{
+		"proper_name" : "Ruchbah",
+		"greek_name" : "Delta Cas",
+		"distance_ly" : 99,
+		"stellar_class" : "A5III-IV"
+	},
+	{
+		"proper_name" : "Lesath",
+		"greek_name" : "Upsilon Sco",
+		"distance_ly" : 520,
+		"stellar_class" : "B2IV"
+	},
+	{
+		"proper_name" : "Alpha Mus",
+		"greek_name" : "Alpha Mus",
+		"distance_ly" : 305,
+		"stellar_class" : "B2IV-V"
+	},
+	{
+		"proper_name" : "Mu Vel",
+		"greek_name" : "Mu Vel",
+		"distance_ly" : 116,
+		"stellar_class" : "G5III+G2V"
+	},
+	{
+		"proper_name" : "Sheratan",
+		"greek_name" : "Beta Ari",
+		"distance_ly" : 60,
+		"stellar_class" : "A5V"
+	},
+	{
+		"proper_name" : "Al Kab",
+		"greek_name" : "Iota Aur",
+		"distance_ly" : 510,
+		"stellar_class" : "K3II"
+	},
+	{
+		"proper_name" : "Porrima",
+		"greek_name" : "Gamma Vir",
+		"distance_ly" : 38,
+		"stellar_class" : "F0V+F0V"
+	},
+	{
+		"proper_name" : "Al Dhibain Prior",
+		"greek_name" : "Eta Dra",
+		"distance_ly" : 88,
+		"stellar_class" : "G8III"
+	},
+	{
+		"proper_name" : "Yed Prior",
+		"greek_name" : "Delta Oph",
+		"distance_ly" : 170,
+		"stellar_class" : "M0.5III"
+	},
+	{
+		"proper_name" : "Tarazed",
+		"greek_name" : "Gamma Aql",
+		"distance_ly" : 460,
+		"stellar_class" : "K3II"
+	},
+	{
+		"proper_name" : "Iota Cen",
+		"greek_name" : "Iota Cen",
+		"distance_ly" : 59,
+		"stellar_class" : "A2V"
+	},
+	{
+		"proper_name" : "Theta Car",
+		"greek_name" : "Theta Car",
+		"distance_ly" : 440,
+		"stellar_class" : "B0Vp"
+	},
+	{
+		"proper_name" : "Zubenelgenubi",
+		"greek_name" : "Alpha-2 Lib",
+		"distance_ly" : 77,
+		"stellar_class" : "A3IV"
+	},
+	{
+		"proper_name" : "Nair al Saif",
+		"greek_name" : "Iota Ori",
+		"distance_ly" : 1300,
+		"stellar_class" : "O9III"
+	},
+	{
+		"proper_name" : "Kornephoros",
+		"greek_name" : "Beta Her",
+		"distance_ly" : 148,
+		"stellar_class" : "G7III"
+	},
+	{
+		"proper_name" : "Gamma Lup",
+		"greek_name" : "Gamma Lup",
+		"distance_ly" : 421,
+		"stellar_class" : "B2IV"
+	},
+	{
+		"proper_name" : "Cebalrai",
+		"greek_name" : "Beta Oph",
+		"distance_ly" : 82,
+		"stellar_class" : "K2III"
+	},
+	{
+		"proper_name" : "Cursa",
+		"greek_name" : "Beta Eri",
+		"distance_ly" : 89,
+		"stellar_class" : "A3III"
+	},
+	{
+		"proper_name" : "Rastaban",
+		"greek_name" : "Beta Dra",
+		"distance_ly" : 362,
+		"stellar_class" : "G2Ib-II"
+	},
+	{
+		"proper_name" : "Delta Cru",
+		"greek_name" : "Delta Cru",
+		"distance_ly" : 364,
+		"stellar_class" : "B2IV"
+	},
+	{
+		"proper_name" : "Beta Hyi",
+		"greek_name" : "Beta Hyi",
+		"distance_ly" : 24.4,
+		"stellar_class" : "G2IV"
+	},
+	{
+		"proper_name" : "Cor Caroli",
+		"greek_name" : "Alpha CVn",
+		"distance_ly" : 110,
+		"stellar_class" : "Aop"
+	},
+	{
+		"proper_name" : "Zeta Her",
+		"greek_name" : "Zeta Her",
+		"distance_ly" : 35,
+		"stellar_class" : "G0IV+G7V"
+	},
+	{
+		"proper_name" : "Kaus Media",
+		"greek_name" : "Delta Sgr",
+		"distance_ly" : 305,
+		"stellar_class" : "K3III"
+	},
+	{
+		"proper_name" : "Al Niyat",
+		"greek_name" : "Tau Sco",
+		"distance_ly" : 430,
+		"stellar_class" : "B0V"
+	},
+	{
+		"proper_name" : "Kaus Borealis",
+		"greek_name" : "Lambda Sgr",
+		"distance_ly" : 77,
+		"stellar_class" : "K1III"
+	},
+	{
+		"proper_name" : "Algenib",
+		"greek_name" : "Gamma Peg",
+		"distance_ly" : 333,
+		"stellar_class" : "B2IV"
+	},
+	{
+		"proper_name" : "Vindemiatrix",
+		"greek_name" : "Epsilon Vir",
+		"distance_ly" : 102,
+		"stellar_class" : "G8III"
+	},
+	{
+		"proper_name" : "Nihal",
+		"greek_name" : "Beta Lep",
+		"distance_ly" : 159,
+		"stellar_class" : "G5II"
+	},
+	{
+		"proper_name" : "Pi Pup",
+		"greek_name" : "Pi Pup",
+		"distance_ly" : 925,
+		"stellar_class" : "K3Ib"
+	},
+	{
+		"proper_name" : "Beta Ara",
+		"greek_name" : "Beta Ara",
+		"distance_ly" : 603,
+		"stellar_class" : "K3Ib-II"
+	},
+	{
+		"proper_name" : "Alpha Hyi",
+		"greek_name" : "Alpha Hyi",
+		"distance_ly" : 71,
+		"stellar_class" : "F0V"
+	},
+	{
+		"proper_name" : "Alpha Tuc",
+		"greek_name" : "Alpha Tuc",
+		"distance_ly" : 199,
+		"stellar_class" : "K3III"
+	},
+	{
+		"proper_name" : "Alcyone",
+		"greek_name" : "Eta Tau",
+		"distance_ly" : 430,
+		"stellar_class" : "B7III"
+	},
+	{
+		"proper_name" : "Beta TrA",
+		"greek_name" : "Beta TrA",
+		"distance_ly" : 40,
+		"stellar_class" : "F2III"
+	},
+	{
+		"proper_name" : "Delta Cyg",
+		"greek_name" : "Delta Cyg",
+		"distance_ly" : 171,
+		"stellar_class" : "B9.5IV+F1V"
+	},
+	{
+		"proper_name" : "Tejat",
+		"greek_name" : "Mu Gem",
+		"distance_ly" : 232,
+		"stellar_class" : "M3III"
+	},
+	{
+		"proper_name" : "Deneb Algedi",
+		"greek_name" : "Delta Cap",
+		"distance_ly" : 39,
+		"stellar_class" : "AmV"
+	},
+	{
+		"proper_name" : "Epsilon Per",
+		"greek_name" : "Epsilon Per",
+		"distance_ly" : 538,
+		"stellar_class" : "B0.5V"
+	},
+	{
+		"proper_name" : "Pi Sco",
+		"greek_name" : "Pi Sco",
+		"distance_ly" : 520,
+		"stellar_class" : "B1V+B2V"
+	},
+	{
+		"proper_name" : "Tureis",
+		"greek_name" : "Rho Pup",
+		"distance_ly" : 63,
+		"stellar_class" : "F6II"
+	},
+	{
+		"proper_name" : "Al Niyat",
+		"greek_name" : "Sigma Sco",
+		"distance_ly" : 735,
+		"stellar_class" : "B2III+O9V"
+	},
+	{
+		"proper_name" : "Zeta Per",
+		"greek_name" : "Zeta Per",
+		"distance_ly" : 980,
+		"stellar_class" : "B1Iab"
+	},
+	{
+		"proper_name" : "Gamma TrA",
+		"greek_name" : "Gamma TrA",
+		"distance_ly" : 183,
+		"stellar_class" : "A1V"
+	},
+	{
+		"proper_name" : "Albaldah",
+		"greek_name" : "Pi Sgr",
+		"distance_ly" : 440,
+		"stellar_class" : "F2II"
+	},
+	{
+		"proper_name" : "Gomeisa",
+		"greek_name" : "Beta CMi",
+		"distance_ly" : 170,
+		"stellar_class" : "B8Ve"
+	},
+	{
+		"proper_name" : "Sadalsuud",
+		"greek_name" : "Beta Aqr",
+		"distance_ly" : 610,
+		"stellar_class" : "G0Ib"
+	},
+	{
+		"proper_name" : "Gamma Per",
+		"greek_name" : "Gamma Per",
+		"distance_ly" : 218,
+		"stellar_class" : "G8III+A2V"
+	},
+	{
+		"proper_name" : "Tau Pup",
+		"greek_name" : "Tau Pup",
+		"distance_ly" : 182,
+		"stellar_class" : "K1III"
+	},
+	{
+		"proper_name" : "Matar",
+		"greek_name" : "Eta Peg",
+		"distance_ly" : 215,
+		"stellar_class" : "G2II-III"
+	},
+	{
+		"proper_name" : "Algorab",
+		"greek_name" : "Delta Crv",
+		"distance_ly" : 88,
+		"stellar_class" : "B9.5V"
+	},
+	{
+		"proper_name" : "Alpha Ara",
+		"greek_name" : "Alpha Ara",
+		"distance_ly" : 267,
+		"stellar_class" : "B2Ve"
+	},
+	{
+		"proper_name" : "Upsilon Car",
+		"greek_name" : "Upsilon Car",
+		"distance_ly" : 1250,
+		"stellar_class" : "A6Ib+B3-4IV"
+	},
+	{
+		"proper_name" : "Zaurak",
+		"greek_name" : "Gamma Eri",
+		"distance_ly" : 221,
+		"stellar_class" : "M0.5III"
+	},
+	{
+		"proper_name" : "Sadalmelik",
+		"greek_name" : "Alpha Aqr",
+		"distance_ly" : 760,
+		"stellar_class" : "G2Ib"
+	},
+	{
+		"proper_name" : "Algenubi",
+		"greek_name" : "Epsilon Leo",
+		"distance_ly" : 250,
+		"stellar_class" : "G1II"
+	},
+	{
+		"proper_name" : "Mebsuta",
+		"greek_name" : "Epsilon Gem",
+		"distance_ly" : 900,
+		"stellar_class" : "G8Ib"
+	},
+	{
+		"proper_name" : "Zeta Tau",
+		"greek_name" : "Zeta Tau",
+		"distance_ly" : 420,
+		"stellar_class" : "B2IIIpe"
+	},
+	{
+		"proper_name" : "Beta Tri",
+		"greek_name" : "Beta Tri",
+		"distance_ly" : 124,
+		"stellar_class" : "A5III"
+	},
+	{
+		"proper_name" : "Deneb Okab Aus",
+		"greek_name" : "Zeta Aql",
+		"distance_ly" : 83,
+		"stellar_class" : "A0V"
+	},
+	{
+		"proper_name" : "Gamma Hydrae",
+		"greek_name" : "Gamma Hya",
+		"distance_ly" : 132,
+		"stellar_class" : "G8III"
+	},
+	{
+		"proper_name" : "Minkar",
+		"greek_name" : "Epsilon Crv",
+		"distance_ly" : 303,
+		"stellar_class" : "K2.5III"
+	},
+	{
+		"proper_name" : "Almaaz",
+		"greek_name" : "Epsilon Aur",
+		"distance_ly" : 2000,
+		"stellar_class" : "F0Iae"
+	},
+	{
+		"proper_name" : "Alnasl",
+		"greek_name" : "Gamma-2 Sgr",
+		"distance_ly" : 96,
+		"stellar_class" : "K0III"
+	}
+]
